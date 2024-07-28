@@ -10,5 +10,5 @@ A user-friendly tool for encrypting and decrypting images using Python, Tkinter,
  Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Image-Encryption-Tool.git
+   git clone https://github.com/govinddjaat751/Image-Encryption-Tool.git
 
